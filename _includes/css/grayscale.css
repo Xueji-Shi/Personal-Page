@@ -135,6 +135,7 @@ a:focus {
     display: table;
     width: 100%;
     height: auto;
+    min-height: 400px; /* 添加这行，设置一个最小高度 */
     padding: 100px 0;
     text-align: center;
     color: #fff;
